@@ -1,0 +1,1 @@
+Hello tghis is the read me i wanna make cool music sfreamer to learn node js stuff and also hlep me w git/github skills
